@@ -1,7 +1,7 @@
 package one.digitalinnovation.basecamp;
 
 /*
- * Classe de exemplo para o exercício da Aula 1 de Operadores Relacionais.
+ * Classe de exemplo para o exercício da Aula 1 Operadores Relacionais.
  */
 
 public class LCCFAula01 {
