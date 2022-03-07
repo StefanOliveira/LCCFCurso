@@ -64,28 +64,28 @@ public class LCCFAula03 {
 
     private static void Semana(){
 
-        int dSemana = 3;
+        String dSemana = "Quarta" ;
 
         switch (dSemana) {
-            case 1:
-                System.out.println("Segunda");
+            case "Segunda":
+                System.out.println(2);
                 break;
-            case 2:
-                System.out.println("Terça");
+            case "Terça":
+                System.out.println(3);
                 break;
-            case 3:
-                System.out.println("\nQuarta");
+            case "Quarta":
+                System.out.println("\n" + 4);
                 break;
-            case 4:
-                System.out.println("Quinta");
+            case "Quinta":
+                System.out.println(5);
                 break;
-            case 5:
-                System.out.println("Sexta");
+            case "Sexta":
+                System.out.println(6);
                 break;
-            case 6:
-                System.out.println("Sábado");
-            case 7:
-                System.out.println("Domingo");
+            case "Sábado":
+                System.out.println(7);
+            case "Domingo":
+                System.out.println(1);
             default:
                 throw new IllegalStateException("Dia da Semana Indefinido: " + dSemana);
         }
