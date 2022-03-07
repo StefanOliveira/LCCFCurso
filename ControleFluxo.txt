@@ -1,0 +1,35 @@
+Controle de Fluxo
+São estruturas que tem a capacidade de direcionar
+o fluxo de execução do código.
+
+Tipos
+Decisão: if, if-else, if-else-if, switch e operador ternário
+Repetição: for, while, do while
+Interrupção: break, continue e return
+
+Decisão: Estrutura que avalia uma condição booleana ou variável
+para direcionar o fluxo de execução.
+Opções: if, switch e operador ternário
+
+Decisão if, else: if, if-else, if-else-if, if-else-if-else
+
+Decisão Ternário: condição ? execução : execução;
+condição ? true : false;
+ligado ? desligar : ligar;
+emMovimento ? freia : null;
+
+
+Decisão: switch
+switch (var){
+  case 1:
+   break;
+  case...:
+   break;
+  default:
+   break;
+ }
+Tipos de Variável:
+byte, short, char, int, Enum, String
+
+
+

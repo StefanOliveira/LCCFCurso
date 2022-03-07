@@ -1,0 +1,9 @@
+Boas Práticas
+-Switch é para valores exatos e if para expressões
+booleanas.
+-Evitar o default do switch para "cases genéricos"
+-Evitar o efeito "flecha" dos if's
+-Evitar muitos if's aninhados
+-Usar a boa prática da aula 2 para diminuir o tamanho
+do if.
+
